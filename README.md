@@ -4,7 +4,7 @@ The problem: HR data lived in silos, so attrition was only noticed after people 
 
 HR Workforce & Attrition Analytics — Proxima Business Services (Capstone)
 Tools: SQL (MySQL) | Excel | Tableau | Power BI | DAX
-Key Contributions<img width="1375" height="922" alt="WhatsApp Image 2026-10-28 at 3 02 40 PM" src="https://github.com/user-attachments/assets/6c55fb4a-838c-46dd-973a-0543c8e81d16" />
+Key Contributions
 <img width="1375" height="922" alt="WhatsApp Image 2026-10-28 at 3 02 40 PM" src="https://github.com/user-attachments/assets/0b801abd-69b7-4e2c-bd46-df13641ea54d" />
 <img width="1057" height="550" alt="WhatsApp Image 2026-10-25 at 9 18 32 AM" src="https://github.com/user-attachments/assets/dad7ca52-2089-4315-92b4-4518fd07c8bd" />
 <img width="1600" height="900" alt="WhatsApp Image 2026-10-11 at 12 54 59 PM - Copy (2)" src="https://github.com/user-attachments/assets/9962bda7-2591-48e6-997e-ba4c2ba92919" />
