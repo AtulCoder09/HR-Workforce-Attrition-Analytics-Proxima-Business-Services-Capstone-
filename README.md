@@ -1,3 +1,4 @@
+
 # HR-Workforce-Attrition-Analytics-Proxima-Business-Services-Capstone-
 The problem: HR data lived in silos, so attrition was only noticed after people left.  What I built: 📊 An 18-table HR data model (2,299 employees, payroll, attendance, recruitment, engagement) 🧮 67 HR KPIs: headcount, attrition, compa-ratio, time to fill, eNPS 📈 Six-page dashboards in Tableau &amp; Power BI, reconciled with SQL
 
@@ -26,6 +27,9 @@ What I built:
 📈 Six-page dashboards in Tableau & Power BI, reconciled with SQL
 
 Biggest insight: employees paid below 85% of their salary-band midpoint left at almost twice the rate of those above it.
+
+Atul kankal
+
 
 Thanks to Mahendra Singh for the guidance! Happy to walk anyone through the dashboard.
 
